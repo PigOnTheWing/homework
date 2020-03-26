@@ -1,0 +1,4 @@
+test_dir/
+venv/
+.idea/
+__pycache__/
